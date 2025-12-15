@@ -1,10 +1,10 @@
-# 🤖 Chat_Bot
+# Chat_Bot
 
 An **AI-powered chatbot** built with **OpenAI**, **Qdrant**, and **React** for context-aware, semantic search–based conversations.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * AI chat using OpenAI
 * Semantic search with Qdrant
@@ -13,7 +13,7 @@ An **AI-powered chatbot** built with **OpenAI**, **Qdrant**, and **React** for c
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend:** React
 * **Backend:** Node.js (Express)
@@ -22,7 +22,7 @@ An **AI-powered chatbot** built with **OpenAI**, **Qdrant**, and **React** for c
 
 ---
 
-## ⚙️ Setup
+##  Setup
 
 ### Backend
 
